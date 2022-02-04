@@ -1,4 +1,4 @@
 # JavaScript-Concepts
 A repo for JavaScript concepts 
 
-## only for learning purpose
+### only for learning purpose
